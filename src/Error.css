@@ -1,0 +1,12 @@
+.error-container {
+    background-color: rgb(239, 20, 8);
+    padding: .2px;
+    width: 50%;
+    margin: 10px auto;
+    border-radius: 20px;
+    box-shadow: 0px 5px 20px rgba(239, 20, 8, 0.5);
+}
+
+.error {
+    color: azure;
+}
